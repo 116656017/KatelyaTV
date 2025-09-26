@@ -12,9 +12,9 @@ const nextConfig = {
   swcMinify: true,
   
   // Disable server components for better Cloudflare Pages compatibility
-  experimental: {
-    serverActions: false,
-    serverComponentsExternalPackages: [],
+  // experimental: {
+  //  serverActions: false,
+  //  serverComponentsExternalPackages: [],
   },
 
   // Uncoment to add domain whitelist
