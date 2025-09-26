@@ -15,7 +15,7 @@ const nextConfig = {
   // experimental: {
   //  serverActions: false,
   //  serverComponentsExternalPackages: [],
-  },
+  // },
 
   // Uncoment to add domain whitelist
   images: {
